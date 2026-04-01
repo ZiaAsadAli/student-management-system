@@ -235,8 +235,8 @@ Clicking **Export PDF** on the student list page downloads a formatted A4 landsc
 
 ## 👨‍💻 Author
 
-**Asad Ali Zia**
-Built as a portfolio project for MSc Code and Interactive Systems (Web Engineering) application — FH Salzburg.
+**Asad**
+Built as a portfolio project for Master's degree application.
 
 ---
 
